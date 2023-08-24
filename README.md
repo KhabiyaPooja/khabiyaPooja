@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Khabiya</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-![image](https://github.com/KhabiyaPooja/khabiyaPooja/assets/126307230/491d940e-c895-49ef-822d-bd9b8c3916d9)">
+<img align="right" alt="coding" width="400" src="https://user-![image](https://github.com/KhabiyaPooja/khabiyaPooja/assets/126307230/4ad2152e-e326-42b3-b364-ebec1ec0ee0f)
+">
 
 
 
