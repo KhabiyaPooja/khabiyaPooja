@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Khabiya</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F53329034%2F123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif&tbnid=W6oFkUYdbiB3BM&vet=12ahUKEwjbv_H5z_SAAxUVm2MGHWZ-CrkQMygBegQIARBQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fcoding-geek21%2Fcoding-geek21&docid=nHs5ngvpqcYGyM&w=368&h=338&q=coding%20girl%20gif&ved=2ahUKEwjbv_H5z_SAAxUVm2MGHWZ-CrkQMygBegQIARBQ>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khabiyapooja&label=Profile%20views&color=0e75b6&style=flat" alt="khabiyapooja" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
