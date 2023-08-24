@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Khabiya</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khabiyapooja&label=Profile%20views&color=0e75b6&style=flat" alt="khabiyapooja" /> </p>
 
