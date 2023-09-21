@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Khabiya</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.sailthru.com/567/1k4/4/g/5e98825c3e7f5.gif">
 
